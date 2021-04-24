@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-# ⚡ Guilherme Rodz
+# ⚡ Willame Mouzinho
 
-**Software Engineer** [@Rocketseat](https://github.com/Rocketseat).
+**👨‍🎓 - Estudante de Ciência da Computação** [@IFMA](https://github.com/Rocketseat).
 
+[![Instagram Badge](https://img.shields.io/twitter/follow/guilherme_rodz?color=%234fffff&label=%40guilherme_rodz&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com)
+[![Twitter Badge](https://img.shields.io/twitter/follow/guilherme_rodz?color=%234fffff&label=%40guilherme_rodz&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com)
 [![Twitter Badge](https://img.shields.io/twitter/follow/guilherme_rodz?color=%234fffff&label=%40guilherme_rodz&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com)
 [![YouTube Badge](https://img.shields.io/badge/youtube--%2300EBEB?style=for-the-badge&logo=youtube)](https://youtube.com/guilhermerodz)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermerodz)
@@ -13,18 +15,16 @@ I have good experience with SPAs and RESTful APIs.
 
 - 🎥 I taught tens of thousands of developers on [YouTube](https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp), every week.
 
-- ⚡ Interested in _Next.js_, _Serverless_, DDD, TDD and _Design Patterns_
+- ⚡ Interessado em: _HTML_, _CSS_, _JS_, _Python_, _Bootstrap_, _Node.js_, _Next.js_ e _Next.js_
 
-- 💬 Ask me about technologies, mindfulness and _eSports_.
+- 📫 Como chegar até mim: willame.mouzinho11@gmail.com
 
-- 📫 How to reach me: contact@rodz.dev
+- 🏐 Joga vôlei? Bora uma partida.
 
-- 🎮 Fun fact: I've been a semi-professional eSports player in the past.
+🚀 Instagram: [@guilherme_rodz](https://www.twitter.com/guilherme_rodz)
 
-🚀 Twitter: [@guilherme_rodz](https://www.twitter.com/guilherme_rodz)
-
-> "Success usually comes to those who are too busy to be looking for it."
-> ― Henry David Thoreau
+> "Não seja ESCROT*E*."
+> ― Willame Mouzinho
 
 <!--
 **willamemouzinho/willamemouzinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
