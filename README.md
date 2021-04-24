@@ -1,8 +1,8 @@
-### Hi there 👋
+### Oi povo 👋
 
 # ⚡ Willame Mouzinho
 
-**👨‍🎓 - Estudante de Ciência da Computação** [@IFMA](https://portal.ifma.edu.br/inicio/).
+**👨‍🎓 Estudante de Ciência da Computação** [@IFMA](https://portal.ifma.edu.br/inicio/).
 
 <!--
 [![Instagram Badge](https://img.shields.io/instagram/follow/willamemouzinho?color=%234fffff&label=%40willamemouzinho&logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com)
