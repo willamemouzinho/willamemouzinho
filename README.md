@@ -10,7 +10,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/guilherme_rodz?color=%234fffff&label=%40guilherme_rodz&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com)-->
 [![Instagram Badge](https://img.shields.io/badge/instagram--%2300EBEB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/willamemouzinho)
 
-- ⚡ Interessado em: _HTML_, _CSS_, _JS_, _Python_, _Bootstrap_, _Node.js_ e _Next.js_
+- ⚡ Interessado em: _HTML_, _CSS_, _JS_, _Rect JS_, _React Native_, _Node.js_ e _Next.js_
 
 - 📫 Como chegar até mim: mouzinhodebritowillame@gmail.com
 
