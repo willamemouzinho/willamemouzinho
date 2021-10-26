@@ -12,11 +12,11 @@
 
 - ⚡ Interessado em: _HTML_, _CSS_, _JS_, _Python_, _Bootstrap_, _Node.js_ e _Next.js_
 
-- 📫 Como chegar até mim: willame.mouzinho11@gmail.com
+- 📫 Como chegar até mim: mouzinhodebritowillame@gmail.com
 
 - 🏐 Joga vôlei? Bora uma partida.
 
 🚀 Instagram: [@willamemouzinho](https://www.instagram.com/willamemouzinho/)
 
-> "Não seja ESCROT**E**."
+> "Tente ser menos ESCROT**E** por favorzinho!!!"
 > ― Willame Mouzinho
