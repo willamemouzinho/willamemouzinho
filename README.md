@@ -57,7 +57,7 @@
   📌 I live in Imperatriz, MA - BR
 </p>
 <p align="left">
- 🎓👨‍🎓 Graduating in Cience Computer by [@IFMA](https://portal.ifma.edu.br/inicio/)
+ 🎓👨‍🎓 Graduating in Cience Computer by <a href="https://portal.ifma.edu.br/inicio/">IFMA</a>
 </p>
 <p align="left">
  🤓 I'm interested in the client-side learning the technologies: HTML, CSS, Javascript, React.js, TypeScript...
