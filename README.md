@@ -48,7 +48,7 @@
 ### 🚀 About me
 
 <p align="left">
-  🙅🏾‍♂️ Full name: Willame Mouzinho de Brito
+  🙅🏾‍♂️ Full name: Willame Mouzinho
 </p>
 <p align="left">
   💻 Computer technician
