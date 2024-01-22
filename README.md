@@ -1,18 +1,9 @@
-<h1>
+
+<h3>
  Oi povo
- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<!--  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
  , I'm Willame Mouzinho <br />
-  Welcome to my Profile!!!
- 
- <!--
- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=willamemouzinho&color=yellow&label=profile+views" alt="profile views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=willamemouzinho.willamemouzinho" alt="visitors">
-  <br />
- </div>
- -->
- 
-</h1>
+</h3>
 
 <!--
 <table align="center">
@@ -30,22 +21,16 @@
 -->
 
 <!-- Contact -->
-### 📬 Contact
+#### 📬 Contact
 
-<!--
-[![portfolio](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-chrome&logoColor=F7DF1E)](#)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1_uSlHoRb0NInNBldTpy_5xYHkeKk-m09/view?usp=sharing)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/AdrianMouzinho)
--->
- 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mouzinhodebritowillame@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/willamemouzinho/)
-[![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/willame-mouzinho-de-brito-616a24223/)
+[![Instagram Badge](https://img.shields.io/badge/-willamemouzinho-1e293b?logo=instagram&logoColor=white)](https://www.instagram.com/willamemouzinho) 
+[![Linkedin Badge](https://img.shields.io/badge/-Willame%20Mouzinho-1e293b?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/willame-mouzinho-616a24223/) 
+[![Gmail Badge](https://img.shields.io/badge/-willame.dev@gmail.com-1e293b?logo=Gmail&logoColor=white)](mailto:willame.dev@gmail.com)
 
 <br />
 
 <!-- About me -->
-### 🚀 About me
+#### 🚀 About me
 
 <p align="left">
   🙅🏾‍♂️ Full name: Willame Mouzinho
@@ -63,7 +48,7 @@
  🤓 I'm interested in the client-side learning the technologies: HTML, CSS, Javascript, React.js, TypeScript...
 </p>
 
-## 💬 In love with ❤️
+#### 💬 In love with ❤️
 
 <p align="left">🏐 play volleyball, 📺 watch movies, series and animes, 🎶 music, 🎨 create drawings.</p>
 
