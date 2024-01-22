@@ -94,5 +94,5 @@
 <br />
 <br />
 
-> "Tente ser menos ESCROT**E** por favorzinho!!!"
+> "Que???"
 > ― Willame Mouzinho
