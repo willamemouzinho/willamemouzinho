@@ -1,9 +1,4 @@
-
-<h3>
- Oi povo
-<!--  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
- , I'm Willame Mouzinho <br />
-</h3>
+### oi povo, I'm Willame Mouzinho <br />
 
 <!-- Contact -->
 
@@ -12,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-willame.dev@gmail.com-1e293b?logo=Gmail&logoColor=white)](mailto:willame.dev@gmail.com)
 
 <!-- About me -->
-#### 🚀 About me
+#### 🚀 about me
  💻 &nbsp; Computer technician
  <br/> 👨‍🎓 &nbsp; Graduating in Cience Computer by <a href="https://portal.ifma.edu.br/inicio/">IFMA</a>
  <br/> 📌 &nbsp; I live in Imperatriz, MA - BR
@@ -22,7 +17,7 @@
  <br/> :computer: &nbsp; Minha stack: Node.js, Typescript, C#, .Net Core
  <br/> 💬  &nbsp; Sobre mim: Amo Desenvolver, Nerd de games como CS:GO, LoL e seriados no Netflix para passa tempo  -->
 
-#### 💬 In love with ❤️
+#### 💬 in love with ❤️
 
 <p align="left">🏐 play volleyball, 📺 watch movies, series and animes, 🎶 music, 🎨 create drawings.</p>
 
