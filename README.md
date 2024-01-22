@@ -5,21 +5,6 @@
  , I'm Willame Mouzinho <br />
 </h3>
 
-<!--
-<table align="center">
- <tr><td><a href="README.md">English</a></td></tr>
- <tr><td><a href="readme_pt-br.md">Português</a></td></tr>
-</table>
--->
-
-<!-- IMAGEM 
-<img
- src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" alt="marcelo-rafael github stats"
- width="50%"
- align="right"
-/>
--->
-
 <!-- Contact -->
 #### 📬 Contact
 
@@ -27,26 +12,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Willame%20Mouzinho-1e293b?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/willame-mouzinho-616a24223/) 
 [![Gmail Badge](https://img.shields.io/badge/-willame.dev@gmail.com-1e293b?logo=Gmail&logoColor=white)](mailto:willame.dev@gmail.com)
 
-<br />
-
 <!-- About me -->
 #### 🚀 About me
-
-<p align="left">
-  🙅🏾‍♂️ Full name: Willame Mouzinho
-</p>
-<p align="left">
-  💻 Computer technician
-</p>
-<p align="left">
-  📌 I live in Imperatriz, MA - BR
-</p>
-<p align="left">
- 🎓👨‍🎓 Graduating in Cience Computer by <a href="https://portal.ifma.edu.br/inicio/">IFMA</a>
-</p>
-<p align="left">
- 🤓 I'm interested in the client-side learning the technologies: HTML, CSS, Javascript, React.js, TypeScript...
-</p>
+ 💻 &nbsp; Computer technician
+ <br/> 👨‍🎓 &nbsp; Graduating in Cience Computer by <a href="https://portal.ifma.edu.br/inicio/">IFMA</a>
+ <br/> 📌 &nbsp; I live in Imperatriz, MA - BR
+ <br/> 🤓 &nbsp; I'm interested in the client-side learning the technologies: HTML, CSS, Javascript, React.js, TypeScript...
+ <!--  <br/> :purple_heart: &nbsp; Buscando atuar com projetos em Back-end usando Node.js & Typescript
+ <br/> :blush: &nbsp; 
+ <br/> :computer: &nbsp; Minha stack: Node.js, Typescript, C#, .Net Core
+ <br/> 💬  &nbsp; Sobre mim: Amo Desenvolver, Nerd de games como CS:GO, LoL e seriados no Netflix para passa tempo  -->
 
 #### 💬 In love with ❤️
 
