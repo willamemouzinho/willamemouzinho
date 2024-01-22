@@ -6,7 +6,6 @@
 </h3>
 
 <!-- Contact -->
-#### 📬 Contact
 
 [![Instagram Badge](https://img.shields.io/badge/-willamemouzinho-1e293b?logo=instagram&logoColor=white)](https://www.instagram.com/willamemouzinho) 
 [![Linkedin Badge](https://img.shields.io/badge/-Willame%20Mouzinho-1e293b?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/willame-mouzinho-616a24223/) 
@@ -17,7 +16,7 @@
  💻 &nbsp; Computer technician
  <br/> 👨‍🎓 &nbsp; Graduating in Cience Computer by <a href="https://portal.ifma.edu.br/inicio/">IFMA</a>
  <br/> 📌 &nbsp; I live in Imperatriz, MA - BR
- <br/> 🤓 &nbsp; I'm interested in the client-side learning the technologies: HTML, CSS, Javascript, React.js, TypeScript...
+ <br/> 🤓 &nbsp; I'm studying the Typescript/JavaScript stack...
  <!--  <br/> :purple_heart: &nbsp; Buscando atuar com projetos em Back-end usando Node.js & Typescript
  <br/> :blush: &nbsp; 
  <br/> :computer: &nbsp; Minha stack: Node.js, Typescript, C#, .Net Core
@@ -54,5 +53,4 @@
 <br />
 <br />
 
-> "Que???"
-> ― Willame Mouzinho
+> "Por um mundo melhor ..."
